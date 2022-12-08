@@ -22,11 +22,11 @@ public class HomePage {
 	}*/
 	
 	@FindBy(xpath = "//input[@name='Login']")
-	private WebElement button_Login;	
+	private WebElement webElement_button_Login;	
 	
 	
-	public void click_Login() {
-		SeleniumSpecificMethods.clickButton(button_Login);
+	public void click_Login_Button(String buttonText) {
+		SeleniumSpecificMethods.clickButton(webElement_button_Login,buttonText);
 
 	}
 	

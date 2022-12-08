@@ -117,7 +117,7 @@ public class SeleniumSpecificMethods {
 
 	//------------------------------webelement actions related--------------------------
 
-
+	//------------------------------link--------------------------
 	/***
 	 * @author Krishna Mohan
 	 * To click on webelement
@@ -136,21 +136,44 @@ public class SeleniumSpecificMethods {
 
 	}
 	
+	//------------------------------button--------------------------
+
 	/***
 	 * @author Krishna Mohan
-	 * To click on webelement
-	 * @param button
+	 * To click on button
+	 * @param we_buton,button_Text
 	 */
-	public static void clickButton(WebElement button ) {
+	public static void clickButton(WebElement we_button) {
 		
+		String button_Text=we_button.getText();
+		HighLighter.elementHighLighter(we_button);
 
-		String button_Text=button.getText();
+		we_button.click();
 
-		//HighLighter.elementHighLighter(link);
+		LOGGER.info("clicked on the button "+button_Text);
 
-		button.click();
+	}
+	
+	
+	/***
+	 * @author Krishna Mohan
+	 * To validate button text
+	 * To click on button
+	 * @param we_buton,button_Text
+	 */
+	public static void clickButton(WebElement we_button,String button_Text) {
+		
+		System.out.println(we_button.getAttribute("value"));
+		
+		System.out.println(button_Text);
+		
+		 Assert.assertEquals(button_Text, we_button.getAttribute("value"));
 
-		LOGGER.info("clicked on the link "+button_Text);
+		//HighLighter.elementHighLighter(we_button);
+
+		we_button.click();
+
+		LOGGER.info("clicked on the button "+button_Text);
 
 	}
 

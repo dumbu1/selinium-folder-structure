@@ -12,7 +12,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		
 
-		features="src/test/resources/features/homePage/feature1.feature",
+		features={"src/test/resources/features/homePage/feature1.feature"},
 		
 
 		glue = {"stepDefinations","hooks"},

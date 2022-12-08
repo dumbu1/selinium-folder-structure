@@ -1,45 +1,123 @@
-07-12-2022---12:22:00.552 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---12:22:25.284 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---12:22:25.405 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---12:22:25.979 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:135)]-clicked on the link UserName  
-Password    
-07-12-2022---12:22:26.178 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---12:22:26.179 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
-07-12-2022---12:22:26.188 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---12:22:26.283 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:135)]-clicked on the link UserName  
-Password    
-07-12-2022---12:22:26.297 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---14:04:49.757 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---14:05:07.353 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---14:05:07.423 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---14:36:23.307 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---14:36:32.771 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---14:36:33.246 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---15:05:11.578 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---15:05:30.080 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---15:05:30.274 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---17:31:29.084 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---17:31:49.092 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---17:31:49.383 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---17:31:49.786 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:135)]-clicked on the link UserName  
-Password    
-07-12-2022---18:20:46.759 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---18:26:17.696 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---18:26:47.431 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---18:26:47.482 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---18:26:47.658 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:135)]-clicked on the link UserName  
-Password    
-07-12-2022---18:31:44.549 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---18:31:56.744 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---18:31:56.799 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---18:31:56.977 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:135)]-clicked on the link UserName  
-Password    
-07-12-2022---18:34:10.540 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---18:34:18.116 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---18:34:18.188 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---18:34:18.376 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:135)]-clicked on the link UserName  
-Password    
-07-12-2022---18:45:21.756 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
-07-12-2022---18:45:30.512 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
-07-12-2022---18:45:30.585 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
-07-12-2022---18:45:31.335 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:153)]-clicked on the link 
+08-12-2022---11:58:48.735 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---11:59:05.948 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---11:59:06.017 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---11:59:06.572 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:153)]-clicked on the link 
+08-12-2022---13:16:36.831 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:16:48.290 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---13:16:48.342 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:16:48.953 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:16:48.954 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---13:16:48.963 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:16:49.185 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:16:49.186 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---13:16:49.196 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:37:26.328 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:37:34.632 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---13:37:34.716 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:37:35.111 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:37:35.112 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---13:37:35.120 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:37:35.401 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:37:35.401 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---13:37:35.412 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:46:35.952 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:46:49.263 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---13:46:49.768 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:46:51.244 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:46:51.246 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---13:46:51.261 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:46:51.585 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:46:51.586 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---13:46:51.595 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:57:47.421 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:57:54.874 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---13:57:54.949 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:57:55.413 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:57:55.413 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---13:57:55.425 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---13:57:55.728 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---13:57:55.729 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---13:57:55.738 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:08:47.169 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:09:03.747 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:09:03.848 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:09:04.330 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:09:04.331 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:09:04.342 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:09:04.630 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:09:04.630 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:09:04.639 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:14:31.112 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:14:39.109 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:14:39.168 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:14:39.760 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:14:39.760 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:14:39.770 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:14:40.055 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:14:40.056 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:14:40.069 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:19:52.154 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:19:59.707 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:19:59.759 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:20:00.344 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:20:00.345 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:20:00.368 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:20:00.695 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:20:00.695 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:20:00.706 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:24:09.282 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:24:14.805 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:24:14.860 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:24:14.911 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:24:14.911 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:24:14.921 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:24:14.988 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:24:14.990 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:24:15.010 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:42:24.326 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:42:35.707 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:42:35.805 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:42:35.879 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:42:35.880 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:42:35.889 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:42:35.915 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:42:35.916 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:42:35.926 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:47:34.779 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:47:42.043 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:47:42.215 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:47:42.293 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:47:42.295 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:47:42.308 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:47:42.347 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:47:42.348 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:47:42.360 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:48:48.267 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:48:53.740 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:48:53.795 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:48:53.844 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:48:53.845 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:48:53.861 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:48:53.895 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:48:53.895 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:48:53.905 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:50:19.825 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:50:25.927 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:50:25.975 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:50:26.838 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:50:26.839 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:50:26.848 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:50:27.146 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:50:27.146 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+08-12-2022---14:50:27.156 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:53:16.354 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:53:21.981 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:53:22.041 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:59:20.364 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---14:59:26.301 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---14:59:26.500 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---14:59:27.073 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:176)]-clicked on the button Login
+08-12-2022---15:00:29.152 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+08-12-2022---15:00:34.540 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+08-12-2022---15:00:34.620 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:58)]-page title validated
+08-12-2022---15:00:35.294 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:176)]-clicked on the button Login
