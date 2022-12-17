@@ -1,0 +1,45 @@
+17-12-2022---10:09:47.909 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---10:10:27.615 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---10:10:32.648 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---10:10:39.948 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---10:30:46.799 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---10:31:45.753 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---10:31:48.000 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---10:31:56.570 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---10:59:20.416 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---11:00:03.757 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---11:00:03.951 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---11:00:05.682 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---11:00:12.369 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---11:29:57.781 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---11:30:30.676 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---11:30:31.295 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---11:30:33.396 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---11:30:40.766 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---11:48:07.606 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---11:48:15.947 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---11:48:16.207 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---11:48:16.994 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:176)]-clicked on the button Login
+17-12-2022---11:48:17.012 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---11:48:17.382 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---11:48:22.179 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---11:57:24.841 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---11:57:31.961 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---11:57:32.045 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---11:57:32.646 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:176)]-clicked on the button Login
+17-12-2022---11:57:32.668 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---11:57:33.065 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---11:57:38.973 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---11:57:38.993 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---11:57:40.111 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:176)]-clicked on the button Login
+17-12-2022---11:57:40.127 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---12:01:13.313 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---12:01:20.270 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---12:01:20.329 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---12:01:20.923 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:176)]-clicked on the button Login
+17-12-2022---12:01:20.945 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---12:01:21.450 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:51)]-Invoking the browser
+17-12-2022---12:01:25.291 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-url opened
+17-12-2022---12:01:25.308 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
+17-12-2022---12:01:25.809 INFO [main][commonMethods.SeleniumSpecificMethods.clickButton(SeleniumSpecificMethods.java:176)]-clicked on the button Login
+17-12-2022---12:01:25.831 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:61)]-page title validated
